@@ -16,7 +16,7 @@ This is important because you:
   * He/she learns some ways to improve.
 
 ## Instructions
-### You have 1h30 hour to...
+### You have 1:30 hour to...
 * Look for the repository of the partner you have been assigned to.
 * First, understand the workflow he/she built in their improved version of their code.
 * Draw / write the workflow for yourself and note your doubts about it.
